@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=CenterLinux
+Description=Simple logo theme with spinner,based on https://github.com/f1rstlady/plymouth-theme-logo-spinner
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/CenterLinux
+ScriptFile=/usr/share/plymouth/themes/CenterLinux/CenterLinux.script
